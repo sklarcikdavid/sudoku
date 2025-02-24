@@ -1,0 +1,4 @@
+C:\Users\dejv\Desktop\Sudoku_hra\obj\Debug\net8.0\Sudoku_hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dejv\Desktop\Sudoku_hra\obj\Debug\net8.0\Sudoku_hra.AssemblyInfoInputs.cache
+C:\Users\dejv\Desktop\Sudoku_hra\obj\Debug\net8.0\Sudoku_hra.AssemblyInfo.cs
+C:\Users\dejv\Desktop\Sudoku_hra\obj\Debug\net8.0\Sudoku_hra.csproj.CoreCompileInputs.cache
